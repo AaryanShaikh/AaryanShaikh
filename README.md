@@ -21,3 +21,5 @@ I'm [Aaryan](https://aaryanshaikh.github.io/JustAnAveragePortfolio/) from Goa, a
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AaryanShaikh&show_icons=true&theme=radical)  
 
+<h2>Keep Smiling!</h2>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
