@@ -12,7 +12,7 @@ I'm [Aaryan](https://aaryanshaikh.github.io/JustAnAveragePortfolio/) from Goa, a
 - 🌱 I’m currently learning **ReactJs** 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/its.me.cypher/) 
 - ⚡ Fun fact: I am a big anime fan😍 and as of now I've watched around 600+ anime!!!😅😂 
-### Connect with me!! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
+## Connect with me!! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
 [<img src='https://github.com/AaryanShaikh/AaryanShaikh/blob/main/github.png' alt='github' height='40'>](https://github.com/AaryanShaikh) [<img src='https://github.com/AaryanShaikh/AaryanShaikh/blob/main/stackoverflow.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12023999/aaryan-shaikh) [<img src='https://github.com/AaryanShaikh/AaryanShaikh/blob/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/aaryan-shaikh-019034181/)  [<img src='https://github.com/AaryanShaikh/AaryanShaikh/blob/main/codewars.png' alt='website' height='40'>](https://www.codewars.com/users/Aaryan%20Shaikh) [<img src='https://github.com/AaryanShaikh/AaryanShaikh/blob/main/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/Aayan_Shaikh)  [<img src='https://github.com/AaryanShaikh/AaryanShaikh/blob/main/sololearn.png' alt='website' height='40'>](https://www.sololearn.com/profile/10336248)  [<img src='https://github.com/AaryanShaikh/AaryanShaikh/blob/main/insta.png' alt='instagram' height='40'>](https://www.instagram.com/its.me.cypher/) [<img src='https://github.com/AaryanShaikh/AaryanShaikh/blob/main/hackerrank.png' alt='codepen' height='40'>](https://www.hackerrank.com/Aaryan_Shaikh) [<img src='https://github.com/AaryanShaikh/AaryanShaikh/blob/main/codepen.png' alt='codepen' height='40'>](https://codepen.io/aaryanshaikh)  [<img src='https://github.com/AaryanShaikh/AaryanShaikh/blob/main/unity-compressed.png' alt='website' height='40'>](https://aaryanshaikh.github.io/JustAnAveragePortfolio/) [<img src='https://github.com/AaryanShaikh/AaryanShaikh/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/AaryanS41675263)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AaryanShaikh&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
@@ -21,5 +21,5 @@ I'm [Aaryan](https://aaryanshaikh.github.io/JustAnAveragePortfolio/) from Goa, a
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AaryanShaikh&show_icons=true&theme=radical)  
 
-#### A joke a day keeps bad vibes away!!<img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '30px'> 
+## A joke a day keeps bad vibes away!!<img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '30px'> 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
