@@ -17,7 +17,7 @@ I'm [Aaryan](https://aaryanshaikh.github.io/JustAnAveragePortfolio/) from Goa, a
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AaryanShaikh)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanShaikh&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanShaikh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AaryanShaikh&show_icons=true)  
 
