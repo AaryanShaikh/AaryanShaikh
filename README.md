@@ -17,7 +17,7 @@ I'm from Goa, and I do **Web Development**, a little bit of ***Graphics Designin
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AaryanShaikh&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanShaikh&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanShaikh&show_icons=true&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AaryanShaikh&show_icons=true&theme=radical)  
 
