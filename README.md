@@ -19,7 +19,7 @@ I'm from Goa, and I do **Web Development**, a little bit of ***Graphics Designin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanShaikh&show_icons=true&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AaryanShaikh&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AaryanShaikh&show_icons=true&theme=radical&include_all_commits=true&hide=issues)  
 
 ## A joke a day keeps bad vibes away!!<img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '30px'> 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
