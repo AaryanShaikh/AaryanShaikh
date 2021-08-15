@@ -1,5 +1,5 @@
 ![]()
-<img src="https://github.com/AaryanShaikh/AaryanShaikh/blob/main/giphy.gif" alt="css3"/>
+<img src="https://github.com/AaryanShaikh/AaryanShaikh/blob/main/cypher-coding.gif" alt="css3"/>
 ### Heyy There!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px alt="css3"/>, my name is [Aaryan Shaikh](https://aaryanshaikh.github.io/JustAnAveragePortfolio/)
 #### I am an Enthusiastic Web Developer!! 
 I'm from Goa, and I do **Web Development**, a little bit of ***Graphics Designing*** with **Photoshop** here and there and I've also developed some games in my ***Game Development*** phase using **Unity3D**. I love exploring new libraries and making web more and more interactive!!😎
