@@ -11,10 +11,10 @@ I'm from Goa, and I do **Web Development**, a little bit of ***Graphics Designin
 <img src="https://camo.githubusercontent.com/94ad70746d4c32151283a68c35e8ab44b05165a462745d8907dcf9d50e278188/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966" alt="css3" height="60px"/></a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" alt="html5" height="60px"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="javascript" height="60px"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/AaryanShaikh/AaryanShaikh/blob/main/mongodb.gif" alt="mongodb" height="60px"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/AaryanShaikh/AaryanShaikh/blob/main/node.gif" alt="nodejs" height="60px"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/AaryanShaikh/AaryanShaikh/blob/main/ps.gif" alt="photoshop" height="60px"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/AaryanShaikh/AaryanShaikh/blob/main/react.gif" alt="react" height="60px"/> </a>  </p>
 
-- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/direct-hit_1f3af.png" width = 30px alt="css3"/> I’m currently working on **Front-End Projects** 
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/direct-hit_1f3af.png" width = 30px alt="css3"/> I’m currently working on [**Front-End Projects**](https://aaryanshaikh.github.io/myportfolio/#/projects) 
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/seedling_1f331.png" width = 30px alt="css3"/> I’m currently learning **ReactJs**
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width = 30px alt="css3"/> Check out my [***website***](https://aaryanshaikh.github.io/myportfolio) 
-- <img src="https://media1.giphy.com/media/oH9EpHYhOtlIZipqpk/giphy.gif" width = 30px alt="css3"/> Ask me about **HTML, CSS, JavaScript, Anime**
+- <img src="https://media1.giphy.com/media/oH9EpHYhOtlIZipqpk/giphy.gif" width = 30px alt="css3"/> Ask me about **HTML, CSS, JavaScript, React, Anime**
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/envelope_2709-fe0f.png" width = 30px alt="css3"/> How to reach me: [***Instagram***](https://www.instagram.com/its.me.cypher/) 
 - <img src="https://www.toeflgoanywhere.org/commencement/assets/images/resume.gif" width = 30px alt="css3"/> Know about my experiences in [***my Resume***](https://github.com/AaryanShaikh/AaryanShaikh/blob/main/Aaryan's%20Resume.pdf)
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/snowflake_2744-fe0f.png" width = 30px alt="css3"/> Fun fact: I'm a big Anime fan and have watched **626** differnt animes<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/face-with-hand-over-mouth_1f92d.png" width = 30px alt="css3"/>
@@ -24,6 +24,8 @@ I'm from Goa, and I do **Web Development**, a little bit of ***Graphics Designin
 [![trophy](https://github-profile-trophy.vercel.app/?username=AaryanShaikh&theme=nord&no-frame=true&title=Repositories,Commit,Stars,Followers,PullRequest&margin-w=25&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanShaikh&show_icons=true&theme=radical&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
+![Aaryan's github stats](https://github-readme-stats.vercel.app/api?username=aaryanshaikh&show_icons=true&theme=radical&include_all_commits=true&hide=issues&count_private=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AaryanShaikh&theme=radical)](https://git.io/streak-stats)
 
