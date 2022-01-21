@@ -1,6 +1,5 @@
 ![]()
 <img src="https://github.com/AaryanShaikh/AaryanShaikh/blob/main/cyphercoding.gif" alt="css3"/> <br><br>
-![Profile views](https://gpvc.arturio.dev/AaryanShaikh)
 ### Hey There!! <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/victory-hand_270c-fe0f.png" width = 30px alt="css3"/>, my name is [Aaryan Shaikh](https://aaryanshaikh.github.io/myportfolio)
 #### I am an Enthusiastic Web Developer!! 
 I'm from Goa, and I do **Web Development**, a little bit of ***Graphics Designing*** with **Photoshop** here and there and I've also developed some games in my ***Game Development*** phase using **Unity3D**. I love exploring new libraries and making web more and more interactive!!<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/grinning-face-with-smiling-eyes_1f604.png" width = 30px alt="css3"/>
