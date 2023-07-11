@@ -1,5 +1,6 @@
 ![]()
-<img src="https://github.com/AaryanShaikh/AaryanShaikh/blob/main/cyphercoding.gif" alt="css3"/> <br><br>
+<p align="center"><img src="https://github.com/AaryanShaikh/AaryanShaikh/blob/main/Aaryan.gif" alt="css3" height=500px /></p> <br><br>
+
 ### Greetings! I'm Aaryan, the Web Wizard <img src="https://em-content.zobj.net/source/skype/289/fire_1f525.png" width = 30px alt="css3"/> 
 I am the React Enthusiast, a seasoned developer immersed in the realm of React's wizardry. Armed with my trusty keyboard and a passion for clean code, I craft captivating user interfaces with the power of functional components and the elegance of JSX. I wield hooks and context like spells, conjuring seamless state management and interactivity. With Redux by my side, I orchestrate the symphony of data flow, and Styled Components adorn my creations like digital works of art. Join me on this epic coding journey as we shape the digital world with the magic of React! <img src="https://em-content.zobj.net/source/skype/289/face-with-monocle_1f9d0.png" width = 20px alt="css3"/>
 
