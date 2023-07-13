@@ -12,7 +12,7 @@ I am the React Enthusiast, a seasoned developer immersed in the realm of React's
 
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/direct-hit_1f3af.png" width = 30px alt="css3"/> I usually work on [**React / NextJs Projects**](https://aaryanshaikh.github.io/myportfolio/#/projects) 
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/seedling_1f331.png" width = 30px alt="css3"/> I’m thinking of learning **React Three Fiber**
-- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width = 30px alt="css3"/> Check out my Website ([**2021**](https://aaryanshaikh.github.io/JustAnAveragePortfolio/),[**2022**](https://aaryanshaikh.github.io/myportfolio)) 
+- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width = 30px alt="css3"/> Check out my Website ([**2021**](https://aaryanshaikh.github.io/JustAnAveragePortfolio/), [**2022**](https://aaryanshaikh.github.io/myportfolio)) 
 - <img src="https://media1.giphy.com/media/oH9EpHYhOtlIZipqpk/giphy.gif" width = 30px alt="css3"/> Ask me about **HTML, CSS, JavaScript, React or Anime**
 - <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/envelope_2709-fe0f.png" width = 30px alt="css3"/> How to reach me: [**Instagram**](https://www.instagram.com/its.me.cypher/) or [**Contact**](https://aaryanshaikh.github.io/myportfolio/#/contact)
 - <img src="https://media3.giphy.com/media/gVzoxZFmhO5yWShg8K/giphy.gif?cid=6c09b95278zj41wwllmp6wyu8ee4tc6xj9nm2eedmlg41l6w&rid=giphy.gif&ct=s" width = 30px alt="css3"/> Know about my experiences in [**my Resume**](https://github.com/AaryanShaikh/AaryanShaikh/blob/main/aaryan's%20resume.pdf)
