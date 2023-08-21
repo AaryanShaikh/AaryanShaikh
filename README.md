@@ -2,7 +2,7 @@
 <p align="center"><img src="https://github.com/AaryanShaikh/AaryanShaikh/blob/main/Aaryan.gif" alt="css3" height=50% /></p>
 
 ### Greetings! I'm Aaryan, the Web Wizard <img src="https://em-content.zobj.net/source/skype/289/fire_1f525.png" width = 30px alt="css3"/> 
-I am the React Enthusiast, a seasoned developer immersed in the realm of React's wizardry. Armed with my trusty keyboard and a passion for clean code, I craft captivating user interfaces with the power of functional components and the elegance of JSX. I wield hooks and context like spells, conjuring seamless state management and interactivity. With Redux by my side, I orchestrate the symphony of data flow, and Styled Components adorn my creations like digital works of art. Join me on this epic coding journey as we shape the digital world with the magic of React! <img src="https://em-content.zobj.net/source/skype/289/face-with-monocle_1f9d0.png" width = 20px alt="css3"/>
+I am the React Enthusiast, a seasoned developer immersed in the realm of React's wizardry. Armed with my trusty keyboard and a passion for clean code, I craft captivating user interfaces with the power of functional components and the elegance of JSX. I wield hooks and context like spells, conjuring seamless state management and interactivity. With Redux by my side, I orchestrate the symphony of data flow, and Styled Components adorn my creations like digital works of art. Join me on this epic coding journey as we shape the digital world with the magic of React!
 
 <h2> Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left">
@@ -22,11 +22,14 @@ I am the React Enthusiast, a seasoned developer immersed in the realm of React's
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AaryanShaikh&theme=nord&no-frame=true&title=Repositories,Commit,Stars,Followers,PullRequest&margin-w=25&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanShaikh&show_icons=true&theme=radical&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-
-![Aaryan's github stats](https://github-readme-stats.vercel.app/api?username=aaryanshaikh&show_icons=true&theme=radical&include_all_commits=true&hide=issues&count_private=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AaryanShaikh&theme=radical)](https://git.io/streak-stats)
+[//]: # (https://github.com/anuraghazra/github-readme-stats)
+[//]: # (https://github.com/anuraghazra/convoychat)
+<a href="https://github.com/AaryanShaikh">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanShaikh&show_icons=true&theme=radical&layout=compact&langs_count=6" />
+</a>
+<a href="https://github.com/AaryanShaikh">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AaryanShaikh&theme=radical" />
+</a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AaryanShaikh&bg_color=0d1117&color=4bb4af&line=000000&point=57ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
