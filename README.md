@@ -22,7 +22,7 @@ I am the React Enthusiast, a seasoned developer immersed in the realm of React's
 
 <p align="center">
   <a href="https://github.com/AaryanShaikh">
-  <img height=240 align="center" src="https://github-trophies.vercel.app/?username=AaryanShaikh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=5&margin-h=5&row=2&column=4&theme=gitdimmed&no-frame=true&no-bg=false" />
+  <img height=240 align="center" src="https://github-trophies-aaryanshaikh.vercel.app/?username=AaryanShaikh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=5&margin-h=5&row=2&column=4&theme=gitdimmed&no-frame=true&no-bg=false" />
 </a>
 <a href="https://github.com/AaryanShaikh">
   <img height=250 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=AaryanShaikh&include_all_commits=true&theme=radical&show_icons=true&title_color=f9f9f9&icon_color=B400FF&text_color=9f9f9f&bg_color=1d1e26&rank_icon=github&hide_border=true" />
