@@ -18,7 +18,20 @@ I am the React Enthusiast, a seasoned developer immersed in the realm of React's
 - <img src="https://media3.giphy.com/media/gVzoxZFmhO5yWShg8K/giphy.gif?cid=6c09b95278zj41wwllmp6wyu8ee4tc6xj9nm2eedmlg41l6w&rid=giphy.gif&ct=s" width = 30px alt="css3"/> Know about my experiences in [**my Resume**](https://github.com/AaryanShaikh/AaryanShaikh/blob/main/aaryan's%20resume.pdf)
 - <img src="https://em-content.zobj.net/source/skype/289/thumbs-up_1f44d.png" width = 30px alt="css3"/> Fun fact: I've made a [**Website**](http://bit.ly/AaryanMemoirs) which lists all the Games, Anime, Movies & Series I've watched or is currenty watching. Do check it out! 
 ## Connect with me!! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
-[<img src='https://github.com/AaryanShaikh/AaryanShaikh/blob/main/git.gif' alt='github' width = 40px>](https://github.com/AaryanShaikh) [<img src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif' alt='linkedin' width = 40px>](https://www.linkedin.com/in/aaryan-shaik-019034181/)  [<img src='https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif' alt='facebook' width = 40px>](https://www.facebook.com/Aayan_Shaikh)    [<img src='http://smsv.sg/wp-content/uploads/2020/08/insta-gif.gif' alt='instagram' width = 40px>](https://www.instagram.com/its.me.cypher/) 
+<p align="center">
+   <a href="https://github.com/AaryanShaikh">
+     <img src='https://github.com/AaryanShaikh/AaryanShaikh/raw/main/git.png' alt='github' height = 50px>
+   </a>
+   <a href="https://www.linkedin.com/in/aaryan-shaik-019034181/">
+     <img src='https://github.com/AaryanShaikh/AaryanShaikh/raw/main/linkedin.png' alt='github' height = 50px>
+   </a>
+   <a href="https://www.facebook.com/Aayan_Shaikh">
+     <img src='https://github.com/AaryanShaikh/AaryanShaikh/raw/main/fb.png' alt='github' height = 50px>
+   </a>
+   <a href="https://www.instagram.com/its.me.cypher/">
+     <img src='https://github.com/AaryanShaikh/AaryanShaikh/raw/main/insta.png' alt='github' height = 50px>
+   </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/AaryanShaikh">
