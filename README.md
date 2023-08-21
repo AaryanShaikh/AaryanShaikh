@@ -20,18 +20,21 @@ I am the React Enthusiast, a seasoned developer immersed in the realm of React's
 ## Connect with me!! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
 [<img src='https://github.com/AaryanShaikh/AaryanShaikh/blob/main/git.gif' alt='github' width = 40px>](https://github.com/AaryanShaikh) [<img src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif' alt='linkedin' width = 40px>](https://www.linkedin.com/in/aaryan-shaik-019034181/)  [<img src='https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif' alt='facebook' width = 40px>](https://www.facebook.com/Aayan_Shaikh)    [<img src='http://smsv.sg/wp-content/uploads/2020/08/insta-gif.gif' alt='instagram' width = 40px>](https://www.instagram.com/its.me.cypher/) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AaryanShaikh&theme=nord&no-frame=true&title=Repositories,Commit,Stars,Followers,PullRequest&margin-w=25&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+<a href="https://github.com/AaryanShaikh">
+  <img height=240 align="center" src="https://github-trophies.vercel.app/?username=AaryanShaikh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=5&margin-h=5&row=2&column=4&theme=gitdimmed&no-frame=true&no-bg=false" />
+</a>
+<a href="https://github.com/AaryanShaikh">
+  <img height=250 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=AaryanShaikh&include_all_commits=true&theme=radical&show_icons=true&title_color=f9f9f9&icon_color=B400FF&text_color=9f9f9f&bg_color=1d1e26&rank_icon=github&hide_border=true" />
+</a>  
+<p></p>
+  
 [//]: # (https://github.com/anuraghazra/github-readme-stats)
-[//]: # (https://github.com/anuraghazra/convoychat)
+[//]: # (https://github-readme-streak-stats.herokuapp.com/demo/)
 <a href="https://github.com/AaryanShaikh">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanShaikh&show_icons=true&theme=radical&layout=compact&langs_count=6" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanShaikh&show_icons=true&layout=compact&langs_count=6&title_color=B400FF&text_color=9f9f9f&bg_color=1d1e26&include_all_commits=true&hide_border=true" />
 </a>
 <a href="https://github.com/AaryanShaikh">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AaryanShaikh&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AaryanShaikh&hide_border=true&stroke=dddddd&fire=9f9f9f&currStreakNum=f9f9f9&background=1d1e26&ring=B400FF&sideNums=f9f9f9&currStreakLabel=f9f9f9&sideLabels=9f9f9f&dates=9f9f9f" />
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AaryanShaikh&bg_color=0d1117&color=4bb4af&line=000000&point=57ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## A joke a day keeps bad vibes away!! <img src="https://em-content.zobj.net/source/skype/289/face-with-hand-over-mouth_1f92d.png" width = 25px alt="css3"/> 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AaryanShaikh&bg_color=0d1117&color=b400ff&line=b400ff&point=eeeeee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
