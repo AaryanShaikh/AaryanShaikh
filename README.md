@@ -1,12 +1,12 @@
 
 <p align="center">
     <a href="https://github.com/AaryanShaikh">
-   <img src="https://github.com/AaryanShaikh/AaryanShaikh/raw/main/dp.png" alt="css3" height=300px />
+   <img src="https://github.com/AaryanShaikh/AaryanShaikh/raw/main/dp.png" alt="css3" height=400px />
+    </a>
+    <a href="https://github.com/AaryanShaikh">
+   <img src="https://github.com/AaryanShaikh/AaryanShaikh/raw/main/Desc.png" alt="css3" height=400px />
     </a>
 </p>
-
-### Greetings! I'm Aaryan, the Web Wizard <img src="https://em-content.zobj.net/source/skype/289/fire_1f525.png" width = 30px alt="css3"/> 
-I am the React Enthusiast, a seasoned developer immersed in the realm of React's wizardry. Armed with my trusty keyboard and a passion for clean code, I craft captivating user interfaces with the power of functional components and the elegance of JSX. I wield hooks and context like spells, conjuring seamless state management and interactivity. With Redux by my side, I orchestrate the symphony of data flow, and Styled Components adorn my creations like digital works of art. Join me on this epic coding journey as we shape the digital world with the magic of React!
 
 <h2  align="center">Skills</h2>
 <p align="center">
