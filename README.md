@@ -4,12 +4,12 @@
 ### Greetings! I'm Aaryan, the Web Wizard <img src="https://em-content.zobj.net/source/skype/289/fire_1f525.png" width = 30px alt="css3"/> 
 I am the React Enthusiast, a seasoned developer immersed in the realm of React's wizardry. Armed with my trusty keyboard and a passion for clean code, I craft captivating user interfaces with the power of functional components and the elegance of JSX. I wield hooks and context like spells, conjuring seamless state management and interactivity. With Redux by my side, I orchestrate the symphony of data flow, and Styled Components adorn my creations like digital works of art. Join me on this epic coding journey as we shape the digital world with the magic of React!
 
-<h2> Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2  align="center">Skills</h2>
 <p align="center">
 <img src="https://github.com/AaryanShaikh/AaryanShaikh/raw/main/lang.png" alt="css3" height="200px"/>
 </p>
 
-## Connect with me!!
+<h2  align="center">Socials</h2>
 <p align="center">
    <a href="https://github.com/AaryanShaikh">
      <img src='https://github.com/AaryanShaikh/AaryanShaikh/raw/main/git.png' alt='github' height = 100px>
@@ -25,6 +25,7 @@ I am the React Enthusiast, a seasoned developer immersed in the realm of React's
    </a>
 </p>
 
+<h2  align="center">GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/AaryanShaikh">
   <img height=240 align="center" src="https://github-trophies-aaryanshaikh.vercel.app/?username=AaryanShaikh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=5&margin-h=5&row=2&column=4&theme=gitdimmed&no-frame=true&no-bg=false" />
