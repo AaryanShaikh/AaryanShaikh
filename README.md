@@ -1,7 +1,7 @@
 
 <p align="center">
     <a href="https://github.com/AaryanShaikh">
-   <img src="https://github.com/AaryanShaikh/AaryanShaikh/raw/main/dp.png" alt="css3" height=400px />
+   <img src="https://github.com/AaryanShaikh/AaryanShaikh/raw/main/dp.png" alt="css3" width=40% />
     </a>
     <a href="https://github.com/AaryanShaikh">
    <img src="https://github.com/AaryanShaikh/AaryanShaikh/raw/main/Desc.png" alt="css3" height=400px />
