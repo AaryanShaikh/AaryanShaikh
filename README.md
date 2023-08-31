@@ -32,10 +32,10 @@
 <h2  align="center">GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/AaryanShaikh">
-  <img height=240 align="center" src="https://github-trophies-aaryanshaikh.vercel.app/?username=AaryanShaikh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=5&margin-h=5&row=2&column=4&theme=gitdimmed&no-frame=true&no-bg=false" />
+  <img height=240 align="center" src="https://github-trophies-aaryanshaikh.vercel.app/?username=AaryanShaikh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=5&margin-h=5&row=2&column=4&theme=gitdimmed&no-frame=true&no-bg=false" alt='Oops! Refresh to view trophies.' />
 </a>
 <a href="https://github.com/AaryanShaikh">
-  <img height=250 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=AaryanShaikh&include_all_commits=true&theme=radical&show_icons=true&title_color=f9f9f9&icon_color=B400FF&text_color=9f9f9f&bg_color=1d1e26&rank_icon=github&hide_border=true" />
+  <img height=250 width=500 align="center" alt='Oops! Refresh to view stats.' src="https://github-readme-stats.vercel.app/api?username=AaryanShaikh&include_all_commits=true&theme=radical&show_icons=true&title_color=f9f9f9&icon_color=B400FF&text_color=9f9f9f&bg_color=1d1e26&rank_icon=github&hide_border=true" />
 </a>
 </p>
 
@@ -44,10 +44,10 @@
 
 <p align="center">
 <a href="https://github.com/AaryanShaikh">
-  <img height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanShaikh&show_icons=true&layout=compact&langs_count=6&title_color=B400FF&text_color=9f9f9f&bg_color=1d1e26&include_all_commits=true&hide_border=true" />
+  <img height=185 align="center" alt='Oops! Refresh to view top lang.' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanShaikh&show_icons=true&layout=compact&langs_count=6&title_color=B400FF&text_color=9f9f9f&bg_color=1d1e26&include_all_commits=true&hide_border=true" />
 </a>
 <a href="https://github.com/AaryanShaikh">
-  <img height=185 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AaryanShaikh&hide_border=true&stroke=dddddd&fire=9f9f9f&currStreakNum=f9f9f9&background=1d1e26&ring=B400FF&sideNums=f9f9f9&currStreakLabel=f9f9f9&sideLabels=9f9f9f&dates=9f9f9f" />
+  <img height=185 align="center" alt='Oops! Refresh to view streak.' src="https://github-readme-streak-stats.herokuapp.com?user=AaryanShaikh&hide_border=true&stroke=dddddd&fire=9f9f9f&currStreakNum=f9f9f9&background=1d1e26&ring=B400FF&sideNums=f9f9f9&currStreakLabel=f9f9f9&sideLabels=9f9f9f&dates=9f9f9f" />
 </a>
 </p>  
 
